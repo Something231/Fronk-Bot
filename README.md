@@ -2,7 +2,7 @@
 
 Commands are executed by writing the prefix(!) followed by one of the commands enlisted below. Correct capitalisation is needed.
 
-**Commands Are listed below**
+## Commands Are listed below
 
 *Moderation Commands:*
 * kick - kicked a specified member - requires the member you want to kick
