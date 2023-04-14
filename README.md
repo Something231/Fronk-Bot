@@ -10,3 +10,5 @@ Commands are executed by writing the prefix(!) followed by one of the commands e
 * clear - clears the specified number of messages from the channel (includes the message used to run the command)
 
 *General / Miscellaneous Commands:*
+* hitman - does basically nothing
+* say - repeats what the user wants the bot to say - requires the message you want the bot to say
